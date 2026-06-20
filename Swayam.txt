@@ -1,0 +1,28 @@
+
+Repository Used in Today's Session
+
+Fork this repository:
+
+text
+https://github.com/swayamrandhe-sketch/TaxApp2.git
+
+
+After forking, clone your fork to your local machine.
+
+# Session Agenda
+
+During the session, we will perform the complete GitHub collaboration workflow:
+
+1. Fork the repository
+2. Clone the repository
+3. Configure remotes (Origin & Upstream)
+4. Create a new branch
+5. Make changes to the project
+6. Commit changes
+7. Push changes to GitHub
+8. Create a Pull Request
+9. Review the complete Open Source contribution workflow
+
+Please go through the concepts of Repository, Forking, Cloning, Branches, Commits, and Pull Requests before joining the session.
+
+See you in the workshop!
